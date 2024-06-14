@@ -1,10 +1,10 @@
-## Roadmap :
+# Roadmap :
 [Machine Learning Roadmap 2020 (whimsical.com)](https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva)
 
-## Project ideas :
+# Project ideas :
 [Machine Learning Projects - YouTube](https://www.youtube.com/playlist?list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6)
 
-## Courses :
+# Courses :
 
 [Python code for ML , only main implementation and basic idea](https://www.youtube.com/playlist?list=PL7yh-TELLS1EZGz1-VDltwdwZvPV-jliQ)
 
